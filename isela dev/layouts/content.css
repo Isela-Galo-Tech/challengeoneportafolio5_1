@@ -1,0 +1,68 @@
+.content {
+    padding-top:            var(--spacer-m);
+    padding-bottom:         var(--spacer-m);
+  }
+
+
+  #about p{
+    
+    display:               -webkit-box;
+    display:               -moz-box;
+    display:               -ms-flexbox;
+    display:               -webkit-flex;
+    
+}
+  
+  .btn_projects{
+    width:          180px;
+    height:         50px;
+    color:        var(--text-light);
+    background:   var(--background-1);
+    border-color: var(--button);
+    border-radius:  8.85px;
+    margin:         auto;
+    float:          right;
+  }
+
+  .btn_projects:hover{
+    background: #33fa216f;
+
+  }
+
+
+  .btn_lagoon{
+    width:          180px;
+    height:         50px;
+    color:        var(--text-light);
+    background:   var(--background-1);
+    border-color: var(--button);
+    border-radius:  8.85px;
+    margin: auto;
+  }
+
+  .btn_lagoon:hover{
+    background: #33fa216f;
+
+  }
+
+
+ 
+
+  #cuac{
+    display:          flex;
+    justify-content:  flex-end;
+    flex-wrap:        wrap;
+  }
+
+
+  .foto{
+    display:          flex;
+    justify-content:  flex-end;
+    flex-wrap:        wrap;
+  }
+
+  #hobbies{
+    display:          flex;
+    justify-content:  space-around;
+    flex-wrap:        wrap;
+  }

@@ -1,0 +1,17 @@
+:root{
+    
+        --background-1:         #212427;
+        --background-2:         #11151C;
+        --banner:               #191a1c;
+        --h1:                   linear-gradient(180deg, #33FA21 0%, #1CA0A0 100%);
+        --h2:                   #009596;
+        --text:                 #009596;
+        --text-light:           #ffffff;
+        --border:               #009596;
+        --button:               #CE1DD1;
+        --line:                 #ABB2BF;
+        --hover:                linear-gradient(180deg,transparent, #bbf321);
+        --hover-text:           #33FA21;
+    
+    
+}
